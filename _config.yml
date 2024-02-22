@@ -12,7 +12,7 @@ title                    : "Rafe Ng"
 title_separator          : "-"
 name                     : &name "Ng Hong Fong"
 description              : &description "Hi, Nice to meet you!"
-url                      : #
+url                      : # url
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rafeng.github.io"
 
